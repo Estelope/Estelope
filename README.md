@@ -31,7 +31,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/Estelope/handle-path-oz">
-    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Esteloper&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Estelope&show_icons=true&hide_border=true" />
   </a>
 
   <!--  logos: https://www.vectorlogo.zone or https://simpleicons.org/ 
