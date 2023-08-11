@@ -15,7 +15,7 @@
 
 
 - 👨🏽‍💻 I am thrilled to continue my coding education with Epicodus, where I am on an enriching educational journey to further my programming knowledge; 
-- 🌱 I’m currently learning Javascript, React, .NET, and C#; 
+- 🌱 I’m currently learning Javascript, React, .NET, and C# with mySQL; 
 - 👯 I’m looking forward to creating my capstone project and collaborate for "team week" projects! 🤝;
 - 💬 Ask me about anything, lets chat;
 - 📫 How to reach me: elopez14567@gmail.com;
