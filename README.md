@@ -14,10 +14,10 @@
 **Things About Me:** 
 
 
-- 👨🏽‍💻 I am thrilled to continue my coding education with Epicodus, where I am on an enriching educational journey to further my programming knowledge; 
-- 🌱 I’m currently learning Javascript, React, MySQL, and C# with ASP.NET ; 
-- 👯 I’m looking forward to creating my capstone project and collaborate for "team week" projects! 🤝;
-- 💬 Ask me about anything, lets chat;
+- 👨🏽‍💻 I'm excited to share that I've completed my coding education at Epicodus.
+- 👯 During this journey, I've built tools that will be instrumental in advancing my programming skills while connecting with great people at the school.
+- 🌱 I’m currently learning Javascript, React, MySQL, and C# with ASP.NET and experimenting with Unity game engine and AI api implimentation. 
+- 💬 I'm looking foward to contribute to something bigger!
 - 📫 How to reach me: elopez14567@gmail.com;
 
 **Languages and Tools:** 
