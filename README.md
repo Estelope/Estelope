@@ -15,9 +15,7 @@
 
 
 - 👨🏽‍💻 I'm excited to share that I've completed my coding education at Epicodus.
-- 👯 During this journey, I've built tools that will be instrumental in advancing my programming skills while connecting with great people at the school.
-- 🌱 I’m currently learning Javascript, React, MySQL, and C# with ASP.NET and experimenting with Unity game engine and AI api implimentation. 
-- 💬 I'm looking foward to contribute to something bigger!
+- 🌱 I’m currently learning Javascript, React, MySQL, and C# with ASP.NET and experimenting with Unity game engine and AI api implimentation.
 - 📫 How to reach me: elopez14567@gmail.com;
 
 **Languages and Tools:** 
