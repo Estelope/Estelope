@@ -14,8 +14,8 @@
 **Things About Me:** 
 
 
-- 👨🏽‍💻 I'm excited to share that I've completed my coding education at Epicodus.
-- 🌱 I’m currently learning Javascript, React, MySQL, and C# with ASP.NET and experimenting with Unity game engine and AI api implimentation.
+- 👨🏽‍💻 I'm excited to share that I've completed my coding education at Epicodus and the following internship with SignedPic
+- 🌱 Stack: Javascript, React, AWS, Azure, MySQL, PostgreSQL, and C# with ASP.NET. Experimenting with Unity game engine and AI api implimentation.
 - 📫 How to reach me: elopez14567@gmail.com;
 
 **Languages and Tools:** 
